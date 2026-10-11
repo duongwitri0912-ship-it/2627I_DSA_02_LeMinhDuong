@@ -89,6 +89,7 @@ public class Bai1 {
 
 //THỐNG KÊ THỜI GIAN CHẠY ĐỐI VỚI TỪNG LOẠI DỮ LIỆU VÀ TỪNG LOẠI KÍCH THƯỚC DỮ LIỆU
 /*
+KẾT QUẢ THỰC NGHIỆM INSERTION SORT
 Size       | File Kint    | Random       | Sorted       | Reverse      | Equal
 ---------------------------------------------------------------------------------
 1000       | 2.33         | 1.20         | 0.00         | 1.00         | 0.00
